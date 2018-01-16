@@ -1,4 +1,4 @@
-I joined Kaggle 2017 Santa competition and achieved 54-th place.
+I joined Kaggle 2017 Santa competition and achieved 54th place.
 
 Competition page: https://www.kaggle.com/c/santa-gift-matching
 
